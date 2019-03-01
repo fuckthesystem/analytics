@@ -1,6 +1,7 @@
-hello-world
+analytics
 ===========
 
-My first experience
+Yandex Praktikum
+https://praktikum.yandex.ru
 
-I'm going to level up my Qt skills.
+Data Analyst
